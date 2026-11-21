@@ -1,0 +1,4 @@
+Study Defense - gioco a turni (HTML + CSS + JavaScript).
+
+index.html = pagina, style.css = aspetto, game.js = tutto il gioco, assets/ = immagini e animazioni.
+Apri index.html nel browser (doppio clic). Nessuna chiave o configurazione necessaria.
